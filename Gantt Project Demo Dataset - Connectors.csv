@@ -1,0 +1,16 @@
+task_id,successor_id,connector_type
+1,2,finish-start
+2,4,start-start
+5,7,finish-start
+10,9,start-start
+10,11,start-start
+15,17,finish-finish
+16,17,finish-finish
+19,21,start-finish
+22,27,finish-start
+28,25,finish-start
+29,30,start-start
+30,33,finish-start
+31,34,start-finish
+35,36,finish-finish
+35,37,finish-finish

@@ -1,0 +1,40 @@
+task_id,project_id,start_date,finish_date,progress,employee_id,task_name,baseline_start_date,baseline_finish_date
+1,1,10/1/2021,10/10/2021,1,4,Obtain Licenses from the Vendor,10/1/2021,10/5/2021
+2,1,10/11/2021,10/11/2021,0,4,Review,,
+3,1,10/12/2021,10/14/2021,1,2,Temp Shutdown for IT Audit,10/7/2021,10/10/2021
+4,1,10/15/2021,10/30/2021,0.3,2,System Installation,10/12/2021,10/20/2021
+5,2,9/27/2021,10/2/2021,0.7,3,Rules and Permissions Audit,9/25/2021,10/2/2021
+6,2,9/30/2021,9/30/2021,0,1,Conference,,
+7,2,10/3/2021,10/7/2021,0,1,Firewall Configuration,10/3/2021,10/11/2021
+8,2,10/8/2021,10/8/2021,0,4,Overview,,
+9,2,10/9/2021,10/12/2021,0,1,Planned System Restart,10/4/2021,10/10/2021
+10,3,10/5/2021,10/17/2021,1,2,Test DDOS Attack,10/1/2021,10/13/2021
+11,3,10/6/2021,10/19/2021,0.5,1,All Ports and Services Tests,10/6/2021,10/16/2021
+12,3,10/20/2021,10/20/2021,0,3,General Meeting,,
+13,3,10/22/2021,10/24/2021,0,4,Ruleset Review If Needed,10/20/2021,10/22/2021
+14,3,10/25/2021,11/2/2021,0,4,Power Outage Tests,10/20/2021,11/2/2021
+15,4,10/4/2021,10/9/2021,0.9,4,Device Inventory,10/4/2021,10/12/2021
+16,4,10/10/2021,10/16/2021,0.8,3,Faulty Devices Check,10/5/2021,10/13/2021
+17,4,10/17/2021,10/21/2021,0.2,1,Device Compatibility Review,10/14/2021,10/21/2021
+18,5,10/1/2021,10/29/2021,1,5,Installing Upgrades,10/1/2021,10/29/2021
+19,5,10/2/2021,10/15/2021,0.6,8,Organize Access for External Audit Team,10/2/2021,10/20/2021
+20,5,10/18/2021,10/18/2021,0,8,Review Audit Results,,
+21,6,10/8/2021,10/13/2021,1,6,Report on Outstanding Collections,10/2/2021,10/7/2021
+22,6,10/14/2021,10/28/2021,0.4,8,Create Invoices and Send Invoices,10/10/2021,10/27/2021
+23,6,10/29/2021,10/29/2021,1,7,Collected Payments Review,,
+24,7,10/10/2021,10/17/2021,0.1,5,Employee Interviews,10/11/2021,10/17/2021
+25,7,10/18/2021,10/25/2021,0,6,Collect Peer Review Data,10/17/2021,10/20/2021
+26,7,10/27/2021,10/27/2021,0,6,Board Meeting,,
+27,7,11/1/2021,11/8/2021,0,7,Post-Review Employee Interviews and Notifications,11/1/2021,11/5/2021
+28,8,10/5/2021,10/15/2021,1,9,Move Containers from Storage Facility ,10/3/2021,10/14/2021
+29,8,10/16/2021,10/20/2021,1,9,Unpack Hardware and Move Indoors,10/11/2021,10/19/2021
+30,8,10/21/2021,10/25/2021,1,8,Place Hardware Inside According to Installation Plan,10/19/2021,10/25/2021
+31,9,10/1/2021,10/12/2021,1,10,Prepare Installation Area,10/1/2021,10/10/2021
+32,9,10/13/2021,10/23/2021,0.7,8,Organize Access for Vendor Installation Team,10/9/2021,10/19/2021
+33,9,10/26/2021,10/29/2021,0,8,Installation Process Overview,10/21/2021,10/26/2021
+34,10,10/4/2021,10/16/2021,0.1,10,Start-Up and Commissioning,10/2/2021,10/13/2021
+35,10,10/17/2021,10/20/2021,0,9,General Systems Overview,10/16/2021,10/21/2021
+36,10,10/21/2021,10/28/2021,0,10,Test Run,10/17/2021,10/26/2021
+37,10,10/29/2021,10/31/2021,0,9,Test Run Results Review,10/25/2021,10/29/2021
+38,10,11/3/2021,11/3/2021,0,9,Management Meeting,,
+39,10,11/5/2021,11/5/2021,0,8,Meeting,,
